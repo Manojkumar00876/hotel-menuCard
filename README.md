@@ -4,6 +4,10 @@ Hotel Menu Card - Dynamic Filtering with HTML, CSS, and JavaScript
 Welcome to the Hotel Menu Card project! In this project, we have created a dynamic hotel menu card using HTML, CSS, and JavaScript. This menu card allows customers to easily filter menu items by category, making it convenient to explore and order their favorite dishes.
 
 
+![Hotel Menu Card](https://github.com/Manojkumar00876/hotel-menuCard/blob/main/output/Screenshot%20(220).png)
+
+
+
 Getting Started
 ---------------
 
